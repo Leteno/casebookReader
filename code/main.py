@@ -2,7 +2,7 @@
 
 import json, os, re, sys
 
-import ui
+import audio, ui
 
 def main():
     filename = getFileName()
@@ -55,7 +55,7 @@ def parse(content):
 def display(data):
     # print(json.dumps(data, indent=4))
     def job(content):
-        print(content)
+        audio.speak(content)
     ui.show(data, job)
 
 if __name__ == '__main__':

@@ -1,0 +1,652 @@
+{
+    "YachtCo ": {
+        "name": "YachtCo ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "22",
+                "content": ". Your client is YachtCo, a US-based luxury motor yacht manufacturer. Started in 1958, they have grown into one of the largest and most prestigious yacht brands in the country. However, they have seen a gradual decline in their profitability in recent years. Their CEO has come to you to develop a turnaround strategy for the company, aiming to improve profitability for the medium-to-long term. "
+            },
+            {
+                "name": "Prompt #2: ",
+                "page": "23",
+                "content": "Provide the interviewee with the following information: . New Yacht Sales C 2014: 100 sales, average sale price $3.2M, average cost $2.6M C 2015: 110 sales, average sale price $3.3M, average cost $3.0M . Yacht Repair/ Renovations C 2014: 200 contracts, average contract $850K, average cost $710K C 2015: 300 contracts, average contract $900K, average cost $750K "
+            },
+            {
+                "name": "Prompt #3: ",
+                "page": "24",
+                "content": "Given the increased demand for steel in Asia and the Middle East, the price of highgrade steel has jumped over 50% in the past year from $1100 to $1800 per metric ton. Give candidate Exhibit 1. YachtCos engineering department recommended that YachtCo transition from traditional steel hulls to newer fiberglass hulls to reduce the costs of construction. Is it worth doing this over the next 5 years? "
+            },
+            {
+                "name": "Prompt #4: ",
+                "page": "27",
+                "content": "Given your recommendation of _________, what other factors should you YachtCo consider when changing hull types? Feel free to take a minute to organize your thoughts before presenting "
+            }
+        ]
+    },
+    "Dam It ": {
+        "name": "Dam It ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "31",
+                "content": ". California is dealing with very harsh drought conditions. It is economically impacting the lives and businesses of its residents. The state financial committee has been presented with a project to capture more water by increasing the size of a current dam, especially given the constraints on their budget and a set of competing state projects in other domains. Currently, California is buying water from Nevada. Though the new project seems promising, the committee wants to ensure the investment is sound. Can you help the state of California evaluate this proposal? "
+            },
+            {
+                "name": "Prompt #2: ",
+                "page": "32",
+                "content": "If candidate does not drive to NPV: The state would like to find out the current value to compare projects equally. "
+            },
+            {
+                "name": "Prompt #3: ",
+                "page": "35",
+                "content": ". What non-financial factors should we consider when deciding between these two projects? "
+            }
+        ]
+    },
+    "Sams Sushi ": {
+        "name": "Sams Sushi ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "39",
+                "content": ". You are out to dinner with a colleague at Sams Sushi, a Michelin-starred sushi restaurant in Wichita, Kansas. Sams rose to prominence due to its unerring commitment to both quality and simplicity (Sam prides himself on only serving two items: sushi and sake). After a few sushi rolls and more glasses of sake than you care to count, your colleague asks you how much you think the restaurant is worth and whether or not buying it would be a good investment. . How would you go about determining the value of the restaurant? "
+            },
+            {
+                "name": "Prompt #2: ",
+                "page": "40",
+                "content": "1. How would you estimate Sams average revenues? (have candidate lay out potential approaches) 2. What factors might cause variation in revenues? (brainstorm) 3. Present Exhibit 1 and have the candidate calculate the annual revenue "
+            },
+            {
+                "name": "Prompt #3: ",
+                "page": "43",
+                "content": ". Now lets think about Sams cash flows. We have the following information about their cost structure and growth rates: C Staff: A hostess, a waiter, and a sushi chef. All 3 work the entire evening. C Tax rate: 40% C Discount rate: 13% C Annual growth rate of cash flows: 3% C Variable costs: 20% of total revenue C Fixed costs: $120,000/year . What are the annual cash flows? . What is the value of the restaurant? "
+            }
+        ]
+    },
+    "Swipe Right for Canoodle ": {
+        "name": "Swipe Right for Canoodle ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "47",
+                "content": ". Your client is Canoodle, a revolutionary mobile dating service which utilizes swipe technology allowing users to easily select mates based on their online profiles. Canoodle was started 2 years ago and now operates across the United States. Despite its success and mass popularity, Canoodle has remained unprofitable, and investors are starting to put pressure on the CEO, Stevie McDreamy, to turn the business around. McDreamy has come to you to help out Canoodle. What should they do? "
+            },
+            {
+                "name": "Prompt #2: ",
+                "page": "50",
+                "content": ". Upon hearing your suggestions, McDreamy is inclined to pursue a premium service for consumers to use. The development teams estimates costs at $500,000 and would take 6 months to develop. What factors should McDreamy consider before committing to the investment? "
+            },
+            {
+                "name": "Prompt #3: ",
+                "page": "51",
+                "content": ". Due to staff and server capacity issues, McDreamy has decided that he would like to launch in just one city this year before rolling out nationwide. Which city would be the best for CanoodlePremium to launch in? "
+            }
+        ]
+    },
+    "Cackalacky Construction ": {
+        "name": "Cackalacky Construction ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "57",
+                "content": ". Cackalacky Construction is a small general contractor in the southeast US. They build schools exclusively. In 2016 Cackalacky generated $20M in revenue, but they have seen stagnant growth in recent years. Cackalacky Construction is looking to double their revenue in the next 3 years and has hired you to advise them how to do it. "
+            },
+            {
+                "name": "Prompt #2: ",
+                "page": "60",
+                "content": ". Cackalacky Construction has decided to enter the Texas market . What are some of the considerations to enter? What is the best way to enter the market? "
+            },
+            {
+                "name": "Prompt #3: ",
+                "page": "63",
+                "content": ". What are the potential challenges Cackalacky Construction will face as they enter the Texas market? . What are ways to mitigate some of these challenges? . What is the final recommendation ? "
+            }
+        ]
+    },
+    "Polar Bear Pool Float ": {
+        "name": "Polar Bear Pool Float ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "66",
+                "content": "Your client is Hot Koala, a leading producer of outdoor lifestyle products (e.g., games, towels, chairs, umbrellas) based in Dubai. It is looking to make a splash (pun intended) with its newest product lineC the Polar Bear Pool Float (PBPF). Its current and loyal customer base is entirely in the Middle East, but it is strongly considering new market opportunities. The founder / CFO (Chief Fun Officer) is torn on where to launch the PBPF and has asked us how we would evaluate new geographies. "
+            },
+            {
+                "name": "Prompt #2: ",
+                "page": "",
+                "content": ""
+            },
+            {
+                "name": "Prompt #3: ",
+                "page": "",
+                "content": ""
+            }
+        ]
+    },
+    "Sardine Airlines ": {
+        "name": "Sardine Airlines ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "77",
+                "content": ". Sardine Airlines is an ultra low-cost carrier with flights throughout the continental United States. They have hub airports in Oakland, California; Tulsa, Oklahoma, and Hartford, Connecticut. Sardine Airlines is facing increased pressure from other low cost carriers such as Cattle Car Air and Soul Airlines. Sardine Airlines has faced declining profit for the past year. Sardines CEO, Penny McPincher, has asked your team for advice on how to reverse the profitability trend. "
+            },
+            {
+                "name": "Prompt #2: ",
+                "page": "85",
+                "content": ". Sardine Airlines has been aggressively advertising to combat competitive pressures. Both the CEO and the Board believe this is a critical expenditure. Recently the landlord for the firms headquarters in Oakland raised rent by $35M. Customer service complaints have increased nearly 3,000%, which the company believes is due to the new 12 inch seats that were installed in the entire fleet. This has caused Sardines call center provider to increase billing by 520% from 2014s $12.36M. What can Sardine Airlines do to address these issues? "
+            }
+        ]
+    },
+    "The Run of the Mill NOWOCO ": {
+        "name": "The Run of the Mill NOWOCO ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "89",
+                "content": "Our client is a Germany-based, material manufacturer called The Run of the Mill NOWOCO specializing in a range of products for the construction industry. In recent months, our client has benefited from anti-dumping taxes on the import of similar products. This has resulted in a demand surge for our client and other domestic competitors; however overall profitability is going down and customer complaints about order fulfilment are at an all-time high. As an integral part of your team, what do you think is going on here? "
+            },
+            {
+                "name": "Prompt #2: ",
+                "page": "90",
+                "content": ". What are some ways the client can increase the order fulfillment as defined previously? . What are some of the trade-offs of doing that? "
+            },
+            {
+                "name": "Prompt #3: ",
+                "page": "93",
+                "content": ". How can the client prioritize customers and improve the order fulfillment? . What information will be required to make this decision? "
+            },
+            {
+                "name": "Prompt #4: ",
+                "page": "95",
+                "content": ". Based on Exhibit 2, calculate the best case profitability and order fulfilment % for the customers assuming no demand constraints "
+            },
+            {
+                "name": "Prompt #5: ",
+                "page": "98",
+                "content": ". What are the risks of suggesting this strategy to focus on the top 3 customers only? . What are some of the ways these risks could be mitigated? "
+            }
+        ]
+    },
+    "Your client, Critical Transportation (CT), provides logistical support for the rail industry on the West ": {
+        "name": "Your client, Critical Transportation (CT), provides logistical support for the rail industry on the West ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "",
+                "content": ""
+            }
+        ]
+    },
+    "HAND INTERVIEWEE EXHIBIT 1. Our client is chiefly concerned about the profit ": {
+        "name": "HAND INTERVIEWEE EXHIBIT 1. Our client is chiefly concerned about the profit ",
+        "prompt": [
+            {
+                "name": "Prompt #2a: ",
+                "page": "",
+                "content": ""
+            }
+        ]
+    },
+    "Our internal analysts believe that CT can only capture 10% of the East Coast ": {
+        "name": "Our internal analysts believe that CT can only capture 10% of the East Coast ",
+        "prompt": [
+            {
+                "name": "Prompt #2b: ",
+                "page": "",
+                "content": ""
+            }
+        ]
+    },
+    "Given that it would take many years to recoup initial costs unless CT could gain a ": {
+        "name": "Given that it would take many years to recoup initial costs unless CT could gain a ",
+        "prompt": [
+            {
+                "name": "Prompt #3: ",
+                "page": "",
+                "content": ""
+            }
+        ]
+    },
+    "Dealer Jacks ": {
+        "name": "Dealer Jacks ",
+        "prompt": [
+            {
+                "name": "Prompt #1:",
+                "page": "111",
+                "content": "Your client is Dealer Jacks, a large US based grocery retailer with stores located on the East Coast. Dealer Jacks stores provide a full grocery offering with produce, deli, and fresh bakery departments and a mix of national and private label brands. The company, affectionately referred to as DJs by its customers, experienced strong growth for the better part of the past two decades outpacing the industry until recently. Over the past three years however, Dealer Jacks annual profits have stagnated and even declined in the past year while the grocery industry has continued to grow with hard discounters such as Trader Joes leading the way. The CEO has been getting increasing pressure from the board to turn things around, and we have been hired to diagnose the cause of DJs profitability issues and find ways to improve it. "
+            },
+            {
+                "name": "Prompt #2:",
+                "page": "115",
+                "content": "Only 33% of all Dealer Jacks sales come from the higher margin private label brands compared to industry leader, Trader Joes, which has 45% penetration. Management expects revenues to be flat in the coming year, but believes that by re-focusing on private label brands, Dealer Jacks could increase its private label sales penetration by 3 percentage points without losing any sales dollars. Private label brands have a gross margin of 40% while national brands have a gross margin of 25% for Dealer Jacks. What do you think of managements hypothesis? "
+            }
+        ]
+    },
+    "Interviewer guidance on Exhibit #1 ": {
+        "name": "Interviewer guidance on Exhibit #1 ",
+        "prompt": [
+            {
+                "name": "Prompt #2 when appropriate. ",
+                "page": "",
+                "content": ""
+            }
+        ]
+    },
+    "Duck Island Beer Co. ": {
+        "name": "Duck Island Beer Co. ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "120",
+                "content": ". Your client is a craft beer company called Duck Island Beer Company out of Austin, TX. They are an international craft beer company beloved by craft drinkers around the world. They are looking to start selling beer in the United Kingdom. They want to know which style of beer to sell and if it would be profitable. "
+            },
+            {
+                "name": "Prompt #2: ",
+                "page": "128",
+                "content": ". What factors would influence this decision to go abroad? "
+            },
+            {
+                "name": "Prompt #3: ",
+                "page": "129",
+                "content": ". Our internal strategy team has decided that: C The market is favorable for entry C We want to launch our flagship beer the Duck Island IPA C We want you to provide your analysis on one of two methods of entry 1. Brew in the US and export to the UK 2. Brew locally in the UK and brand it as a US Beer - Which one do you recommend and why? "
+            }
+        ]
+    },
+    "NileKart ": {
+        "name": "NileKart ",
+        "prompt": [
+            {
+                "name": "Prompt #1:",
+                "page": "141",
+                "content": ". Your client NileKart located in the Research Triangle Park (RTP) in Durham, is the nations fastest growing e-commerce player with over $3 Billion in revenues in 2015. Most of this growth is inorganic with NileKart leveraging its seemingly endless cash reserves to acquire companies which strategically align with its long term vision of becoming the largest e-commerce company in the world. . NileKarts recent acquisitions include a fast growing logistics company based in Memphis, a 600 seater call centre based Austin and a Fintech start-up based in Silicon Valley. . In January 2016, under tremendous pressure from its VCs to continue its rapid growth, NileKart reluctantly completed the acquisition of WishDeal, a niche ecommerce company with over $500 Million in revenues in 2015. Wish Deal is based in Silicon Valley and was built by a young team of data scientists and developers which sells quirky, one-of-a-kind products at low prices. . The rationale behind this merger was to exploit economies of scale in operations, expanding consumer base and developing a diverse product portfolio as sources of competitive advantages in the highly saturated e-commerce industry in USA. "
+            },
+            {
+                "name": "Prompt #1: ",
+                "page": "142",
+                "content": "We have been engaged to help with creating a comprehensive technology integration plan with the following key considerations: . Who are the key stakeholders that need to be considered in order to achieve success of the technology integration? . Integrate NileKarts and WishDeals technology systems into a single centralized platform where the combined entity can leverage economies of scale in operations. . What phases would you propose to roll-out the integration with broad timelines? . Highlight any key risks that NileKart faces in this integration. "
+            }
+        ]
+    },
+    "Fresher Breath ": {
+        "name": "Fresher Breath ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "154",
+                "content": ". Your client, Minty Fresh Co. has been the dominant leader in Oral Mouthwash for over a century since inventing a unique four oil combination that kills 99% of germs and leaves consumers with a dentist fresh clean feeling. Minty Fresh has consistently held 80-90% of the market share for mouthwash, but in the last 3 years, share and profit has been rapidly declining. Your client, the CEO of the US division, has hired you to determine what is driving the decline and how to quickly reverse this trend. "
+            },
+            {
+                "name": "Prompt #3: ",
+                "page": "159",
+                "content": "1. An analyst on your team calculated price elasticities of different sized bottles of Minty Fresh. The proposed changes are within the boundaries of retailer contracts and are what your team thinks are the max price changes Minty Fresh could make without negative profit impact. With the following data, can Minty Fresh hit their incremental sales target? Assume that 2015 sales and volume are the starting point. C For 250 ML, 20% price increase drives a 10% volume decrease C For 500ML, a 15% price increase drives a 10% volume decrease C For 1ML, a 20% price decrease drives a 30% volume increase C For 1.5ML a 15% price decrease drives a 20% volume increase 2. After calculations: What factors would need to be considered to implement a price change? "
+            }
+        ]
+    },
+    "Off-Broadway Blues ": {
+        "name": "Off-Broadway Blues ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "162",
+                "content": "The CEO of a nonprofit performing arts theatre has approached us because despite increasing attendance, the theatres profit margins have been declining over the past 5 years. The CEO wants you to help him identify what may be causing the decline and what steps he might take to turn around the trend. What would you recommend the CEO consider to help ensure sufficient operating funds for the theatre into the future? "
+            },
+            {
+                "name": "Prompt #3: ",
+                "page": "166",
+                "content": "The CEO agrees that it has been far too long since ticket pricing has been re-evaluated. What information would you need to evaluate current and new pricing strategies? (here, pause to let candidate generate ideas for what information would be helpful unless theyve already mentioned everything in their framework). The current tickets are priced on a two-tiered structure, $30 for seats on the main floor and $20 for seats in the balcony. There are 450 seats on the floor level, and 400 in the balcony. There are typically 16 performances of each show, and the theatre does 5 professional productions per year. Capacity is, on average, 85% for the floor level and 90% for the balcony. "
+            },
+            {
+                "name": "Prompt #3 cont:",
+                "page": "167",
+                "content": "Note: 90% utilization is assumed because of lower price . 12% profit margin goal: Gross Profits/Revenues = 0.12 => (Revenue CCost)/Revenue =0.12 where cost is $1,344,600 . => New revenue = Cost/0.88 = $1,344,600 / 0.88 = $1,530,000 Once the candidate has solved for the new revenue, they can find the necessary ticket price . New ticket price: $1,530,000 = 0.9 (Seat utilization) x 16 (number of times a show plays) x 5 (total number of shows) x 850 (total seats including balcony and floor) x P (Price) . => P = $25 Interviewer Guidance cont: Regarding new pricing model, the CEO is interested in adopting one price throughout the theatre so as to avoid the impression that the balcony seats are less desirable. However, he does not want the ticket price to be above $35/ticket. Looking at the analysis you just performed, by how much would the CEO need to increase gross profit to hit 12% margins? "
+            }
+        ]
+    },
+    "The cost of production has increased dramatically because beginning in 2011, the theatre underwent a ": {
+        "name": "The cost of production has increased dramatically because beginning in 2011, the theatre underwent a ",
+        "prompt": [
+            {
+                "name": "Prompt #2: ",
+                "page": "",
+                "content": ""
+            }
+        ]
+    },
+    "Galacticas Epic Struggle ": {
+        "name": "Galacticas Epic Struggle ",
+        "prompt": [
+            {
+                "name": "Prompt #1:",
+                "page": "171",
+                "content": "Your client is Galactica, a market leader in on-premise data warehousing and analytics technology. It makes money by selling hardware and software to large companies, as well as assisting them with tracking, storing, and analyzing their data. Galactica has a decentralized organizational structure and has offices in 40 countries, each run independently without much interference from corporate. Over the past several years Galacticas growth and profitability has declined due to large cloud providers, such as Amazon and Microsoft, taking a chunk of the market through their massive scale and resources. Last year, for the first time in its history, Galactica showed an annual loss. We have been hired to find ways to cut costs while not sacrificing profitability. "
+            },
+            {
+                "name": "Prompt #1 Guidance:",
+                "page": "",
+                "content": ""
+            },
+            {
+                "name": "Prompt #2:",
+                "page": "177",
+                "content": "What non-financial factors should Galactica consider when exiting a country? How can they mitigate any risks associated with these factors? "
+            }
+        ]
+    },
+    "Thrill Park ": {
+        "name": "Thrill Park ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "182",
+                "content": ". Our client is Amusement Worldwide, an international amusement park company. Amusement Worldwide owns and operates dozens of parks around the world. These parks are regional parks, where visitors drive to the park for the day and not resort destinations, to which visitors travel great distances. . Amusement Worldwide has been quite successful recently and is looking to grow inorganically, with a budget of up to $1.5B. Weve been hired to evaluate whether or not they should acquire a local amusement park called Thrill Park, which is very popular in a region in which Amusement Worldwide is not currently present. . What are the important considerations when evaluating Thrill Park? "
+            },
+            {
+                "name": "Prompt #2: ",
+                "page": "185",
+                "content": ". We have done some additional research on the costs of running a park of this size and what representative concessions and merchandise sales look like C Thrill Park costs $60M/yr to run, including operating, upkeep and administrative costs C The average guest spends $20/day on food, 50% of which is profit for Thrill Park C There are two types of guests in terms of souvenir purchases: Collectors and Casual guests 25% of the guests are collectors spend an average of $36 The rest of the guests are casual guests spend an average of $12 "
+            },
+            {
+                "name": "Prompt #3: ",
+                "page": "186",
+                "content": ". What is the fair value of Thrill Park if the profit grows at 3% per year assuming an 8% discount rate? . Alternatively, just give 5% discount rate with no growth. "
+            },
+            {
+                "name": "Prompt #4: ",
+                "page": "187",
+                "content": ". What are some other factors Amusement Worldwide should consider when deciding to buy Thrill Park? "
+            },
+            {
+                "name": "Prompt #5 (Optional): ",
+                "page": "188",
+                "content": ". Our client claims that it would be able to make Thrill Park more profitable than it is currently, due to its strong brand image, operational expertise, and purchasing power. Specifically, Amusement Worldwide thinks it could increase ticket sales of Thrill Park by 10%, while cutting the operating costs by 5% and the cost of food by 10%. Due to the existing supplier contract, they do not believe they will realize any savings in merchandise purchasing. . What is the total economic benefit of Amusement Worldwide owning Thrill Park? "
+            },
+            {
+                "name": "Prompt #6 (Optional): ",
+                "page": "189",
+                "content": ". Thrill Park has told Amusement Worldwide it would be willing to sell itself for a price of $1.1B (a premium of $140M). Should Amusement Worldwide accept this offer? "
+            },
+            {
+                "name": "Prompt #7 (Very optional): ",
+                "page": "190",
+                "content": ". What are some additional ways that Thrill Park could potentially become more profitable? "
+            },
+            {
+                "name": "Prompt #7 (Super optional extra math problem): ",
+                "page": "191",
+                "content": ". Worried that Thrill Park might not continue to bring in enough guests to remain profitable, Amusement Worldwide wants us to check . Given the ticket price, operating costs, and expected food and merchandise contributions, how many guests a year does Thrill Park need to attract to be profitable? "
+            }
+        ]
+    },
+    "Specialty Steel ": {
+        "name": "Specialty Steel ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "195",
+                "content": "Your client is a mid-sized specialty steel manufacturer with a portfolio of alloys that span across multiple industries. The majority of sales are in the aerospace market to one jet engine original equipment manufacturer (OEM). Your client's contract with this OEM is set to expire next week, and the OEM will be opening bidding to the public. The OEM has traditionally demanded a total of 180,000 tons/year from the whole market, but analysts expect this number to sharply rise. Our client has identified this as a must-win scenario and wants to know if it should change its price. "
+            }
+        ]
+    },
+    "Goodbye Horses ": {
+        "name": "Goodbye Horses ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "203",
+                "content": ". Your client is the CFO of Aperture Laboratories, a leading US biopharmaceutical company with a market cap >$150B. Aperture develops and manufactures a diversified range of products and in particular prides itself on saving millions of human lives every year. . The company is under investor pressure because of its slow firm value growth over the next 10 years. Investors are very anxious to see significant changes announced at the firm in the next quarter. The CFO has already identified and evaluated a number of high-growth, promising, but capital-intensive projects, and she does not have enough cash to invest in any of the opportunitieswhat dose she need to do next? "
+            },
+            {
+                "name": "Prompt #2: ",
+                "page": "206",
+                "content": ". Unknown to the CFO until now, the business development team has retained JP Morgan to assess the sale-ability of the Animal Health business. They have identified that Aperture will likely receive a 3.5x enterprise value to sales multiple for the animal health business. "
+            }
+        ]
+    },
+    "Game of Ligers ": {
+        "name": "Game of Ligers ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "212",
+                "content": ". Your client, Daenerys Targaryen, is the owner of a zoo. Daenerys has always been interested in exotic animals and is interested in buying a Liger to showcase at her zoo and has hired you to help her determine what to do. "
+            },
+            {
+                "name": "Prompt #2: ",
+                "page": "216",
+                "content": ". What if the zoo decides to buy two Ligers, a male and a female? Would this be a good idea? "
+            }
+        ]
+    },
+    "From Breakdown to Make-ups ": {
+        "name": "From Breakdown to Make-ups ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "221",
+                "content": ". Your client is PrimeCo, a major producer and distributor of advanced industrial products. For this purpose, advanced industrials refers to products that have technically complex design and manufacturing processes, and typically includes industries like advanced electronics, aerospace and defense, and automotive assembly. Your client is one of the largest aerospace and defense prime contractors (a prime contractor is the firm that is hired to complete the final product and fulfill the order contract). The CEO of PrimeCo has hired your firm to investigate why PrimeCos profits have been declining, and to recommend solutions to improve their situation. "
+            }
+        ]
+    },
+    "From Breakdowns to Make-ups ": {
+        "name": "From Breakdowns to Make-ups ",
+        "prompt": [
+            {
+                "name": "Prompt #2",
+                "page": "228",
+                "content": ". Because of the close relationship between the two companies, PrimeCo wants to offer SubPrime Co a deal: C If SubPrime Co. can lower the unit price to $9.00/unit, PrimeCo will help SubPrime Co acquire Parts A, B, and C at worldwide market prices, and will share best-practices in manufacturing efficiency. . The new unit price of $9.00/unit will include Parts A, B, and C at market prices, will drop SubPrime Cos overhead to industry average, and will raise SubPrime Cos profit margin to industry average. . Question 1: By how much (in dollars) will SubPrime Co have to reduce labor costs per unit to achieve a $9.00/unit price? . Give the candidate a chance to work through the first problem and then give the second question . Question 2: If this decrease in price returned PrimeCos spend on Sub-component #3 to 2012 levels, how would this impact PrimeCos profits? Assume no changes to revenue or other costs. "
+            }
+        ]
+    },
+    "Peaceful Energy ": {
+        "name": "Peaceful Energy ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "234",
+                "content": ". In July,2011, the German government vowed to shut down all its nuclear capacity within 10 years. Besides that, the governments goal is to replace it with renewable energy, cut greenhouse-gas (GHG) emissions by 40% by 2020 and 80% by 2050, ensure renewables contribute 80% of Germany's energy by 2050, and ensure energy consumption drops by 20% by 2020 and by 50% by 2050 (statistics from The Guardian). Bremen is a city in northwestern Germany. Its population as of 2016 is 640,000 people. Bremen is a major cultural and economic hub in the northern region of Germany. As a result, the city is home to a large number of multinational companies and manufacturing centers. Bremen was included in the federal antinuclear program. The mayor of Bremen needs a new energy strategy. You are hired to help him. "
+            },
+            {
+                "name": "Prompt #2: ",
+                "page": "236",
+                "content": "Mayor wants you to define potential shortage in energy supply after nuclear power plant shutdown. "
+            },
+            {
+                "name": "Prompt #3: ",
+                "page": "240",
+                "content": "To secure 700,000 mWh* energy supply per year for Bremen, the local project team has identified several options. Mayor asked you to review them, define total energy units needed (for each source of energy), and recommend the most viable project. All facilities will be operated free of charge by Federal Energy Agency. The local budget will pay only initial investments. Energy transmission losses can be neglected. "
+            }
+        ]
+    },
+    "Make Airlines Great Again ": {
+        "name": "Make Airlines Great Again ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "246",
+                "content": "Your client, Donald Drumpf is a 70 year old bougie real estate mogul who inherited his entire wealth from his late father. Drumpf Enterprises, his Company, primarily operates within the real estate/hospitality industry with numerous high-end Drumpf hotels (50% of overall top line revenue) and golf courses located worldwide. Lately, Drumpf has seen shrinking per room profit margins for his hotel business. As the debatably successful businessman that he is, Donald Drumpf believes that the shrinking margins are due to increased competition from the recent emergence of AirBnB and other similar businesses. In order to diversify his overall portfolio of successful investments, he intends to enter into what he calls the bedrock of the American economy, the airline industry, and Make Airlines Great Again by leveraging his success in the hospitality industry to create an airline that offers first in class comforts. Donald Drumpf wants to enter this industry quickly and has identified 2 airlines to look at. He believes that either of these airlines would help increase the overall profit margin of his business. Donald Drumpf has hired you to help with this matter. Despite Drumpf being convinced about airlines, the partner at your firm leading this engagement thinks the team needs to look at the hotel business profitability as well. "
+            },
+            {
+                "name": "Prompt #2: ",
+                "page": "255",
+                "content": ". By how much can Drumpf increase his profits for his hotel business? Assume that hotel room revenue is the only revenue for his hotel business. "
+            }
+        ]
+    },
+    "Accenture: Surfboard Wax ": {
+        "name": "Accenture: Surfboard Wax ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "",
+                "content": ""
+            },
+            {
+                "name": "Prompt #2: ",
+                "page": "",
+                "content": ""
+            },
+            {
+                "name": "Prompt #3: ",
+                "page": "",
+                "content": ""
+            }
+        ]
+    },
+    "Accenture: Mobilizing Your World ": {
+        "name": "Accenture: Mobilizing Your World ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "",
+                "content": ""
+            },
+            {
+                "name": "Prompt #2: ",
+                "page": "",
+                "content": ""
+            },
+            {
+                "name": "Prompt #3: ",
+                "page": "",
+                "content": ""
+            }
+        ]
+    },
+    "Mission Eternity ": {
+        "name": "Mission Eternity ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "294",
+                "content": ". Your client, NASA, has recently learned of a giant asteroid heading towards the Earth. Scientists at NASA have determined that there is a 10 percent probability that this asteroid makes landfall. If it hits, the asteroid will create a large dust storm blocking out sunlight and preventing photosynthesis in plants. This will ultimately destroy the rest of the earths ecosystem for the next 100 years. NASA needs help determining whether they should launch the Eternity Mission, a space exploration mission to find a suitable planet for the human population to live on in the event of the catastrophic asteroid impact. "
+            },
+            {
+                "name": "Prompt #2:",
+                "page": "297",
+                "content": ""
+            },
+            {
+                "name": "Prompt #2: ",
+                "page": "300",
+                "content": ". Brainstorm: How should NASA determine which planet to explore first? What metrics would you want to look at when comparing Planets X, Y and Z? "
+            }
+        ]
+    },
+    "Interviewer Guidance on Exhibit #2 ": {
+        "name": "Interviewer Guidance on Exhibit #2 ",
+        "prompt": [
+            {
+                "name": "Prompt #3: Guidance for Exhibit #2:",
+                "page": "301",
+                "content": ""
+            }
+        ]
+    },
+    "Refinery in the Country of Georgia ": {
+        "name": "Refinery in the Country of Georgia ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "305",
+                "content": ". It is 2012 and your client is one of the largest retailer of oil products in the country of Georgia (Eastern Europe). Company is exploring the idea to build crude oil refinery in Georgia and has hired you to evaluate the idea. . The goal of the company is to understand what the capacity of refinery should be and wants to make go/no go decision. "
+            },
+            {
+                "name": "Prompt #2: ",
+                "page": "307",
+                "content": "As a first step, your client wants to identify what should refinerys capacity be. Traditionally, oil refineries have very high capacities but recent technological advances allow to build small size refineries with the same efficiency at the same cost levels. Note: Hand exhibit 1 to interviewee. "
+            },
+            {
+                "name": "Prompt #3: ",
+                "page": "309",
+                "content": "Client wants to use discounted cash flow model to get NPV. For simplicity assume year 1 projections will remain same in perpetuity with no growth. Discount rate: 10% Tax rate: 20% Depreciation: Ignore depreciation for this case. "
+            }
+        ]
+    },
+    "Walter Black Industries ": {
+        "name": "Walter Black Industries ",
+        "prompt": [
+            {
+                "name": "Prompt #1: ",
+                "page": "318",
+                "content": ". Your client is Walter Black Industries, a privately owned chemical manufacturing company based in Albuquerque, New Mexico that specializes in producing car wash chemicals. The client has two major products, Car Wash A and Truck Wash A. After a series of aggressive acquisitions 5 years ago, the client has become a market leader, but revenue growth has become stagnant in the last 2 years. The client would like us to identify opportunities to increase revenue by 30% without reducing profit margins. "
+            },
+            {
+                "name": "Prompt #3:",
+                "page": "323",
+                "content": ""
+            }
+        ]
+    },
+    "Interviewer guidance on Exhibits ": {
+        "name": "Interviewer guidance on Exhibits ",
+        "prompt": [
+            {
+                "name": "Prompt #2: Exhibit #1 Guidance:",
+                "page": "321",
+                "content": ""
+            }
+        ]
+    },
+    "Activist Action ": {
+        "name": "Activist Action ",
+        "prompt": [
+            {
+                "name": "Prompt #1 C Supply Chain Restructuring ",
+                "page": "332",
+                "content": "The partner on this case talked to the product supply (manufacturing) contact at the client who provided a supply chain restructuring opportunity. Do you think this is a viable option to satisfy the activist investor and the client? (provide Exhibit #1) "
+            },
+            {
+                "name": "Prompt #2 C Low Cost Countries ",
+                "page": "334",
+                "content": "The client mentioned that other companies have successfully used low cost sourcing. The example companies effectively moved or rehired functions from developed regions to countries like India, China, or Brazil. Do you think the options in Exhibit 2 can meet the clients needs for the snacks business? "
+            },
+            {
+                "name": "Prompt #3 C Sell Businesses ",
+                "page": "336",
+                "content": "Other companies have seen significant cash and stock price increases when splitting off non-core businesses. The client would like you to value these brands/businesses and consider divesting them. Is there any additional information needed to estimate the market value? "
+            }
+        ]
+    },
+    "Orange Yoga Studio ": {
+        "name": "Orange Yoga Studio ",
+        "prompt": [
+            {
+                "name": "Prompt #2: Brainstorm ",
+                "page": "",
+                "content": ""
+            },
+            {
+                "name": "Prompt #3: Increase Class Size ",
+                "page": "",
+                "content": ""
+            },
+            {
+                "name": "Prompt #4: Implementation ",
+                "page": "",
+                "content": ""
+            }
+        ]
+    },
+    "Coyotes ": {
+        "name": "Coyotes ",
+        "prompt": [
+            {
+                "name": "Prompt #1 ",
+                "page": "",
+                "content": ""
+            },
+            {
+                "name": "Prompt #2 C For Analysis ",
+                "page": "",
+                "content": ""
+            },
+            {
+                "name": "Prompt #3 (if time) ",
+                "page": "",
+                "content": ""
+            }
+        ]
+    }
+}
